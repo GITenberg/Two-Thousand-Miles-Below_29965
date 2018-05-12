@@ -1,0 +1,29 @@
+_repo: Two-Thousand-Miles-Below_29965
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diffin, Charles Willard
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '33760'
+    url: http://www.gutenberg.org/2009/agents/33760
+description: ''
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Two Thousand Miles Below
+url: http://www.gutenberg.org/ebooks/29965
